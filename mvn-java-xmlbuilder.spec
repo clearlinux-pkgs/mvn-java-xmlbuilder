@@ -4,7 +4,7 @@
 #
 Name     : mvn-java-xmlbuilder
 Version  : 0.4
-Release  : 1
+Release  : 2
 URL      : https://github.com/jmurty/java-xmlbuilder/archive/v0.4.tar.gz
 Source0  : https://github.com/jmurty/java-xmlbuilder/archive/v0.4.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/jamesmurty/utils/java-xmlbuilder/0.4/java-xmlbuilder-0.4.jar
